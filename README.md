@@ -1,5 +1,5 @@
  
- # Template to run a Node JS program as command-line tool
+ # Template to run a Node JS program as a command-line tool
 
 This is a Node JS project template to run a javascript file as a command-line tool. It consists of a package manager file and `/bin/program.js` file which is going to be executed by running the command name `program`.
 
